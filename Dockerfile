@@ -8,7 +8,7 @@ ENV MAIL=someone@organisation.org
 # Use of HTTP & HTTPS ports
 EXPOSE 80
 EXPOSE 443
-
+tesrrrrr
 # Install dependencies
 RUN apt-get update && \
     apt-get install -y wget git
